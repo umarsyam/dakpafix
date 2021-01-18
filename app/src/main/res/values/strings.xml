@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DAKPA</string>
+    <string name="txtJudulSadari1">Langkah 1</string>
+    <string name="txtIsiSadari1">Didepan cermin angkat tangan dan periksa apakah ada kemerahan atau bengkak dipayudara</string>
+    <string name="txtJudulSadari2">Langkah 2</string>
+    <string name="txtIsiSadari2">Letakkan tangan dipinggang dan periksa payudara seperti langkah pertama</string>
+    <string name="txtJudulSadari3">Langkah 3</string>
+    <string name="txtIsiSadari3">Tekan payudara dari atas kebawah dan rasakan apakah ada benjolan</string>
+    <string name="txtJudulSadari4">Langkah 4</string>
+    <string name="txtIsiSadari4">Tekan payudara secara melingkar apakah ada benjolan</string>
+    <string name="txtJudulSadari5">Langkah 5</string>
+    <string name="txtIsiSadari5">Tekan payudara ke arah puting dan lihat apakah ada cairan keluar</string>
+    <string name="txtJudulSadari6">Langkah 6</string>
+    <string name="txtIsiSadari6">Posisikan berbaring dan tekan kembali payudara secara melingkar</string>
+    <string name="txtJudulPencegahan1">Cek Kesehatan Secara Berkala</string>
+    <string name="txtIsiPencegahan1">Lakukan Sadari pada tiap bulan setelah mens, dan Sadanis tiap tahun</string>
+    <string name="txtJudulPencegahan2">Enyahkan Asap Rokok</string>
+    <string name="txtIsiPencegahan2">Zat karsinogen pada rokok membuat sel yang berkembang secara normal menjadi tidak terkontrol</string>
+    <string name="txtJudulPencegahan3">Rajin latihan fisik/olahraga</string>
+    <string name="txtIsiPencegahan3">Manfaat Olahraga disini adalah mengurangi depresi, meningkatkan energi dan kekuatan, dan mengurangi rasa sakit</string>
+    <string name="txtJudulPencegahan4">Pola Makan Sehat</string>
+    <string name="txtIsiPencegahan4">Untuk mengurangi resiko kanker, hal yang terpenting yang harus dilakukan adalah menjaga keseimbangan nutrisi</string>
+    <string name="txtJudulPencegahan5">Istirahat Cukup</string>
+    <string name="txtIsiPencegahan5">Apabila jam istirahat/tidur kurang maka sel kekebalan antikanker dapat mengalami penururan hingga 70%</string>
+    <string name="txtJudulPencegahan6">Kelola Stress</string>
+    <string name="txtIsiPencegahan6">Stress yang berlebih dapat memicu gaya hidup yang buruk</string>
+
+</resources>
